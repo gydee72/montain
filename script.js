@@ -3,7 +3,7 @@ function simpleMessage() {
 }
 
 var myImage = document.getElementById("imagedr");
-var imageArray = ["images/mont1.jpg", "images/ski1.jpg", "images/ski2.jpg", "images/ski3.jpg", "images/mountain.jpg", "images/neige4.jpg"];
+var imageArray = ["images/ski6.jpg", "images/ski1.jpg", "images/ski2.jpg", "images/ski3.jpg", "images/ski4.jpg", "images/ski5.jpg"];
 
 var imageIndex = 0;
 
